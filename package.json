@@ -1,0 +1,12 @@
+{
+  "name": "phase5-aggregation-project",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongoose": "^9.0.1"
+  },
+  "scripts": {
+    "indexing": "node scripts/indexing.js"
+  }
+}
