@@ -1,0 +1,26 @@
+{
+  "name": "phase6-mongodb-relationships",
+  "version": "1.0.0",
+  "description": "MongoDB Phase 6 - Relationships, Embedding, Referencing, Populate",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "express",
+    "relationships"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
